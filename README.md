@@ -16,7 +16,8 @@
 - Обучить финальную модель  
 - Принять участие в соревновании на kaggle
 
-<a href="https://www.kaggle.com/competitions/sf-scoring/overview">**Страница с моим решением на Kaggle**</a>  
+<a href="https://www.kaggle.com/angelikasung/competitions">**Страница с моим решением на Kaggle**</a>     
+<a href="https://www.kaggle.com/competitions/sf-scoring/overview">**Страница соревнования на Kaggle**</a> 
 
 ### Структура репозитория:  
 - **Ноутбук с решением. Файл - 5.Project_Credit_Scoring.ipynb**   
